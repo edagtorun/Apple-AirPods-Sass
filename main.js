@@ -13,7 +13,6 @@ if (navClose) {
     navMenu.classList.remove("show-menu");
   });
 }
-
 const linkAction = () => {
   navMenu.classList.remove("show-menu");
 };
